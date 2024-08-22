@@ -1,0 +1,3 @@
+Task: Building an Employee Management System
+Scenario:
+You are tasked with creating an Employee Management System for a company. The system should manage different types of employees (e.g., managers, developers, interns) and their unique attributes and behaviors. The system should also handle department assignments, calculate salaries, and manage additional features like working on projects or mentoring other employees.
